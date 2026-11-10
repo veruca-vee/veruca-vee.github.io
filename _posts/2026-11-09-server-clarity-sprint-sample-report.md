@@ -5,11 +5,11 @@ date: 2026-11-09
 author: Veruca Velharin
 ---
 
-*Illustrative sample. This report describes a made-up business and a made-up server. No real client, system or data appears in it. It shows the shape and depth of a Sprint report.*
+*Sample report. Names and details are fictional because real client systems stay confidential. The format, the checks, and the depth are exactly what a Sprint client receives.*
 
 ## About this engagement
 
-- Client: Example Design Studio (fictional), a 9-person web agency
+- Client: Example Design Studio (sample client), a 9-person web agency
 - Scope: 2 servers, web-01 (client websites) and files-01 (internal file share)
 - Window: 10 business days
 - Access: read-only SSH for the audit; write access only for fixes the client approved in writing
