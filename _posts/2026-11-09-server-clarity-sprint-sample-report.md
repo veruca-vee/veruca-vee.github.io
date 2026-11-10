@@ -5,7 +5,7 @@ date: 2026-11-09
 author: Veruca Velharin
 ---
 
-*Sample report. Names and details are fictional because real client systems stay confidential. The format, the checks, and the depth are exactly what a Sprint client receives.*
+*Sample report built on a test server. The format, checks and depth are exactly what a Sprint client receives.*
 
 ## About this engagement
 
