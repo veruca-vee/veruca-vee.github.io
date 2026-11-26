@@ -42,7 +42,7 @@ Both servers are running and serving their sites, but neither would tell anyone 
 
 ## Monitoring set up during the Sprint
 
-Checks configured for both servers: site reachability, certificate expiry, disk space, backup job result and pending security updates. Alerts go to the client's chosen address.
+Checks configured for both servers: site reachability, certificate expiry, disk space, backup job result and pending security updates. Alerts route to me, with a copy to an address you choose.
 
 ## Handover
 
