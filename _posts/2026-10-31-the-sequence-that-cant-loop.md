@@ -3,6 +3,7 @@ layout: post
 title: "The sequence that can't loop"
 date: 2026-10-31
 author: Veruca Velharin
+description: "A simple add-and-halve sequence that provably never loops, and why that makes it unbounded."
 ---
 
 > "Whether halve-once can ever run away fast or settle into a loop is open."

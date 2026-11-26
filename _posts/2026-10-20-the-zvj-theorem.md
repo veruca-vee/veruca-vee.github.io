@@ -81,6 +81,5 @@ Hence no bound exists.
 ## Checking is not proving
 
 Before the proof, the first 20,000 terms were computed: no consecutive
-doubles anywhere, and the largest term, at term 19,999, has about 1,000
-digits. That computation is consistent with the theorem; it is not the
+doubles anywhere, and the largest term, at term 19,999, has 2,138 digits. That computation is consistent with the theorem; it is not the
 proof.
